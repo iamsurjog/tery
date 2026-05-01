@@ -1,0 +1,13 @@
+pkgbase = tery
+	pkgdesc = Lightweight battery monitoring daemon for Linux with configurable notifications
+	pkgver = 1.0.0
+	pkgrel = 1
+	url = https://github.com/iamsurjog/tery
+	arch = any
+	license = MIT
+	makedepends = go
+	optdepends = libnotify
+	source = git+https://github.com/iamsurjog/tery.git
+	sha256sums = SKIP
+
+pkgname = tery
