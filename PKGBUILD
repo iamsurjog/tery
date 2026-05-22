@@ -1,6 +1,6 @@
 # Maintainer: Sujatro Ganguli <iamsurjog@gmail.com>
 pkgname=tery
-pkgver=1.0.0
+pkgver=1.0.1
 pkgrel=1
 pkgdesc="Lightweight battery monitoring daemon for Linux with configurable notifications"
 arch=('any')
